@@ -1,0 +1,13 @@
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Exercicios com loop\bin\Debug\netcoreapp3.1\Exercicios com loop.exe
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Exercicios com loop\bin\Debug\netcoreapp3.1\Exercicios com loop.deps.json
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Exercicios com loop\bin\Debug\netcoreapp3.1\Exercicios com loop.runtimeconfig.json
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Exercicios com loop\bin\Debug\netcoreapp3.1\Exercicios com loop.runtimeconfig.dev.json
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Exercicios com loop\bin\Debug\netcoreapp3.1\Exercicios com loop.dll
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Exercicios com loop\bin\Debug\netcoreapp3.1\Exercicios com loop.pdb
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Exercicios com loop\obj\Debug\netcoreapp3.1\Exercicios com loop.csprojAssemblyReference.cache
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Exercicios com loop\obj\Debug\netcoreapp3.1\Exercicios com loop.AssemblyInfoInputs.cache
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Exercicios com loop\obj\Debug\netcoreapp3.1\Exercicios com loop.AssemblyInfo.cs
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Exercicios com loop\obj\Debug\netcoreapp3.1\Exercicios com loop.csproj.CoreCompileInputs.cache
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Exercicios com loop\obj\Debug\netcoreapp3.1\Exercicios com loop.dll
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Exercicios com loop\obj\Debug\netcoreapp3.1\Exercicios com loop.pdb
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Exercicios com loop\obj\Debug\netcoreapp3.1\Exercicios com loop.genruntimeconfig.cache
